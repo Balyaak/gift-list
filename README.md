@@ -16,8 +16,6 @@ Thus far the user is able to:
     
 - Generate a report from the list 
 
-## Bonuses Completed
-
 - Containerisation
 - Authentication
 - Swagger Documentation
